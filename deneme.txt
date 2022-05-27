@@ -1,0 +1,6 @@
+Ne oldu da iyi kod bu denli bir hızla kötü koda dönüştü? Bunun için bir çok sebep sıralayabiliriz. 
+Gereksinimlerin (requirements) çok fazla değiştiğinden şikayet edebiliriz. Teslim tarihlerinin (deadline) çok sıkı olduğundan da yakınabiliriz. 
+Beceriksiz yöneticilere ya da hoşgörüsüz da müşterilere da püskürebiliriz. Ancak hata tamamen bizde. Bizler profesyonel değiliz!
+Kabul etmesi zor, hata nasıl bizde olabilir? Diğerleri, onların hiç suçu yok mu? Hayır. 
+Yöneticiler taahhüt vermek için bizden birşeyler duymayı beklerler. Beklemedikleri zaman bile onlara ne düşündüğümüzü söylemekten kaçınmamalıyız.
+ Proje yöneticileri de zamanlama için bizden birşeyler duymayı beklerler. Bu yüzden, proje planlaması ve başarısızlıklar konusunda epey suçluyuz!
